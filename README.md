@@ -21,5 +21,8 @@ This is a simple implement of SVM
 原始数据集分布  
 ![dataset_2_数据原始分布](https://github.com/Ling6/SVM-python-/blob/main/resultImg/dataset_2_%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83.png,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5bjU4MzI1MDA=,size_16,color_FFFFFF,t_70)  
 决策边界  
-![dataset_2_决策边界](https://github.com/Ling6/SVM-python-/blob/main/resultImg/dataset_2_%E5%86%B3%E7%AD%96%E8%BE%B9%E7%95%8C.png,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5bjU4MzI1MDA=,size_16,color_FFFFFF,t_70)
-
+![dataset_2_决策边界](https://github.com/Ling6/SVM-python-/blob/main/resultImg/dataset_2_%E5%86%B3%E7%AD%96%E8%BE%B9%E7%95%8C.png,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5bjU4MzI1MDA=,size_16,color_FFFFFF,t_70)  
+### 代码说明
+本代码中包括打印原始数据集、支持向量和决策边界，直接调用对应的方法即可。
+代码直接放到jupyter notebook就能运行，需要修改的只有数据集的路径。
+最后，我写python代码习惯在句尾加’;’，请见谅~
