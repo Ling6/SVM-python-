@@ -12,12 +12,12 @@ This is a simple implement of SVM
 4）[李航统计学习之SVM支持向量机+SMO算法数学推导](https://www.bilibili.com/video/BV1S741117Pw)  
 课本上有些地方没有说清楚，所以另外找些学习资料还是很有必要的，但是我还是有些地方不明白呀。刚开始学支持向量机的同学，强烈建议先看「零基础学SVM」，这里面讲清楚了对偶问题。然后软间隔和核函数那里，可以看最后两个资料，最后的那个视频资料我觉得很不错，跟着视频公式推下来，多看几遍就差不多了。个人觉得支持向量机还是有一定难度的，需要花点时间来学，反正我是真的花了挺多时间的。  
 ### 训练结果图
-##### dataset_1
+#### dataset_1
 原始数据集分布  
 ![dataset_1_数据原始分布](https://github.com/Ling6/SVM-python-/blob/main/resultImg/dataset_1_%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83.png)  
 决策边界  
 ![dataset_1_决策边界](https://github.com/Ling6/SVM-python-/blob/main/resultImg/dataset_1_%E5%86%B3%E7%AD%96%E8%BE%B9%E7%95%8C.png,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5bjU4MzI1MDA=,size_16,color_FFFFFF,t_70)  
-##### dataset_2
+#### dataset_2
 原始数据集分布  
 ![dataset_2_数据原始分布](https://github.com/Ling6/SVM-python-/blob/main/resultImg/dataset_2_%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83.png,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x5bjU4MzI1MDA=,size_16,color_FFFFFF,t_70)  
 决策边界  
